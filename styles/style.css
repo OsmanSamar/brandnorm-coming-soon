@@ -74,7 +74,6 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /* gap: 20px; */
     padding: 50px 30px;
     margin-top: 100px;
     border-radius: 10px;
@@ -99,13 +98,6 @@ body {
         font-size: 18px;
         line-height: 170%;
         letter-spacing: 0px;
-        /* border-bottom: 1px solid transparent; Invisible border
-        transition: border-color 0.3s ease; Smooth transition
-
-        &:hover {
-          text-decoration: underline;
-          border-bottom-color: #f6f7b8;
-        } */
       }
     }
 
